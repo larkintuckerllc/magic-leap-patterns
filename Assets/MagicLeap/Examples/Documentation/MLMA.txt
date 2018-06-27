@@ -1,0 +1,36 @@
+# Example Scene: MLMA
+
+This example demonstrates and prescribes preferred methods for receiving input
+from a Magic Leap Mobile Application (MLMA).
+
+When a MLMA is connected, this example shows its status. A mobile phone model
+shows the state of the buttons and touch input. This model follows your mobile device
+with 3 DoF rotational data -- positional data is not available for MLMA.
+
+When an MLMA is disconnected, the example updates the status UI. If a controller is
+connected, the status UI also is updated accordingly.
+
+## Bumper - Bottom left button with 2 circles
+When you press the Bumper:
+- A ring around the bumper button on the mobile phone model lights up.
+
+## Home Button - Bottom middle button with the house icon
+When you release the Home Button:
+- A ring around the home button on the mobile phone model lights up for a short duration.
+
+## Trigger - Bottom right button with the 4 arrows
+When you press the Trigger button:
+- A ring around the trigger button on the mobile phone model lights up.
+- Note: the trigger value can only be 0 or 1 for the MLMA.
+
+## Touchpad - Grid at the center of the app
+When you touch the Touchpad:
+- The touchpad on the mobile phone model shows the touch location, similar to what you see on the
+  actual MLMA. A maximum of two touches can be detected.
+
+## Keyboard - Tap the keyboard icon on the upper right corner
+When you type on the Keyboard:
+- Printable characters appear on the keyboard input (left side). Note: you have to tap
+  **Submit** on the MLMA.
+- The delete key (backspace) removes the last printable character entered. This key does
+  not require to tap Submit.

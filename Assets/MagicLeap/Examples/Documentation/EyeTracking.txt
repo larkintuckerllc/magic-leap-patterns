@@ -1,0 +1,15 @@
+# Example Scene: Eye Tracking
+
+This example demonstrates the core component EyeTrackingFixationComfort.
+
+The intended use of this component is to ensure the user's fixation point
+is at a comfortable distance. When the user observers an area too close,
+the component will adjust the near-clip plane gradually. If the user
+remains in an uncomfortable state too long, the device will impose a forced
+near-clip plane; which is outside of the uncomfortable range.
+
+The UI depicts the following:
+- Eye Calibration Status
+- Fixation Depth Uncomfortable
+- Uncomfortable Remaining Time
+- Fixation Depth Violated

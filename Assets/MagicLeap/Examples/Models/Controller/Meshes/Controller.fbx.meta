@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: f12966200d074db47a10d0bc1129877b
+timeCreated: 1501181058
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: GripTotem_Body
+    100004: GripTotem_FrontButton
+    100006: GripTotem_MenuButton
+    100008: GripTotem_Pad
+    100010: GripTotem_Trigger
+    100012: Controller_Body
+    100014: Controller_FrontButton
+    100016: Controller_MenuButton
+    100018: Controller_Pad
+    100020: Controller_Trigger
+    400000: //RootNode
+    400002: GripTotem_Body
+    400004: GripTotem_FrontButton
+    400006: GripTotem_MenuButton
+    400008: GripTotem_Pad
+    400010: GripTotem_Trigger
+    400012: Controller_Body
+    400014: Controller_FrontButton
+    400016: Controller_MenuButton
+    400018: Controller_Pad
+    400020: Controller_Trigger
+    2300000: GripTotem_Body
+    2300002: GripTotem_FrontButton
+    2300004: GripTotem_MenuButton
+    2300006: GripTotem_Pad
+    2300008: GripTotem_Trigger
+    2300010: Controller_Body
+    2300012: Controller_FrontButton
+    2300014: Controller_MenuButton
+    2300016: Controller_Pad
+    2300018: Controller_Trigger
+    3300000: GripTotem_Body
+    3300002: GripTotem_FrontButton
+    3300004: GripTotem_MenuButton
+    3300006: GripTotem_Pad
+    3300008: GripTotem_Trigger
+    3300010: Controller_Body
+    3300012: Controller_FrontButton
+    3300014: Controller_MenuButton
+    3300016: Controller_Pad
+    3300018: Controller_Trigger
+    4300000: GripTotem_Pad
+    4300002: GripTotem_MenuButton
+    4300004: GripTotem_Trigger
+    4300006: GripTotem_FrontButton
+    4300008: GripTotem_Body
+    4300010: Controller_Pad
+    4300012: Controller_MenuButton
+    4300014: Controller_Trigger
+    4300016: Controller_FrontButton
+    4300018: Controller_Body
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

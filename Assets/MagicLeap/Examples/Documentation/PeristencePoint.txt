@@ -1,0 +1,7 @@
+# Example Scene: PersistentPoint
+
+This examples shows usage of MLPersistentPoint MonoBehaviour which is a utility class that you can attach
+to the GameObject and put your virtual objects underneath. It provides some degree of resilience because the component associates
+your object with more than one Persistent coordinate frames (PCFs) and improves the chances of restoration on boot.
+The two static objects you see in the scene should persist in the same location between device boots.
+
